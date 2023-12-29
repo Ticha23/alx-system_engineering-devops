@@ -1,0 +1,1 @@
+After a search through the configuration management research in trying to understand what exactly is managing a confirguration. I understood it is more of a system upgrading and changing the way a system used to work to a newer version with still having the previous track with you still on record.
